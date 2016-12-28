@@ -1,2 +1,2 @@
 # js-todolist
-a simple todo list in javascript
+A simple todo list made using javascript (wihout jQuery) and styled using bootstrap
