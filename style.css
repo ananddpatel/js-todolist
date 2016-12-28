@@ -1,0 +1,32 @@
+.top {
+border-bottom: 1px;
+/*border-radius: 10px;*/
+/*margin-top: 15px;*/
+margin-bottom: 15px;
+}
+
+.done, .delete {
+    padding-right: 15px;
+    float: right;
+}
+
+.edit {
+    padding-left: 15px;
+    float: left;
+}
+
+.edit:hover {
+    color: blue;
+}
+
+.done:hover {
+    color: green;
+}
+
+.delete:hover {
+    color: red;
+}
+
+.fa-lg {
+    line-height: 1em !important;
+}
