@@ -1,9 +1,9 @@
 /*
-1. clicking button adds task to TODO area
+1. DONE clicking button adds task to TODO area
     - newer adds to the top
-2. 2 buttons within each list at the right side
+2. DONE 2 buttons within each list at the right side
     - done, delete
-3. 1 button on the right side
+3. DONE 1 button on the right side
     -  edit
 4. tasks that are done get sent to the DONE area
     - color changes to a green color indicating its done
