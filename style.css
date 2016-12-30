@@ -5,6 +5,14 @@ border-bottom: 1px;
 margin-bottom: 15px;
 }
 
+body {
+	background-color: #f1f1f1;
+}
+
+.todo-list-group, .done-list-group {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
 .done, .delete {
     padding-right: 15px;
     float: right;
@@ -20,7 +28,7 @@ margin-bottom: 15px;
 }
 
 .done:hover {
-    color: green;
+    color: #2bde00;
 }
 
 .delete:hover {
@@ -29,4 +37,18 @@ margin-bottom: 15px;
 
 .fa-lg {
     line-height: 1em !important;
+}
+
+#sep {
+    background-color: #f9f9f9;
+    height: 2px;
+    border-radius: 2px;
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+
+#editing {
+	width: 50%;
+	height: 22px;
 }
